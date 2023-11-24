@@ -1,0 +1,9 @@
+[submodule "RedNix"]
+	path = RedNix
+	url = https://github.com/redcode-labs/RedNix.git
+[submodule "nix-security-box"]
+	path = nix-security-box
+	url = https://github.com/fabaff/nix-security-box.git
+[submodule "kalinix"]
+	path = kalinix
+	url = https://github.com/balsoft/kalinix.git
